@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Foreground
+  - Player
+  - Enemy
+  - EnemyJumper
+  - Elevator
+  - Audio Triggers
+  - Look At Enemy Trigger
+  - Control Instructions
+  - Elevator Direction Changers
+  - Entity Destroyer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Behind Level Doors
+    uniqueID: 551003121
+    locked: 0
+  - name: Level Door
+    uniqueID: 5880031
+    locked: 0
+  - name: Background
+    uniqueID: 2575585647
+    locked: 0
+  - name: Light Background
+    uniqueID: 3653006689
+    locked: 0
+  - name: Foreground
+    uniqueID: 96413921
+    locked: 0
+  - name: Control Instructions
+    uniqueID: 3557975575
+    locked: 0
+  - name: Enemy
+    uniqueID: 1991897579
+    locked: 0
+  - name: Elevator
+    uniqueID: 3087208151
+    locked: 0
+  - name: Level End Door
+    uniqueID: 634847845
+    locked: 0
+  - name: Player
+    uniqueID: 1452857465
+    locked: 0
+  - name: Trollface
+    uniqueID: 974744967
+    locked: 0
